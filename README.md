@@ -60,7 +60,7 @@ herramienta estándar de Vite con React y TypeScript.
 Clone (el repositorio es privado por ahora) e instale las dependencias:
 
 ```bash
-git clone https://github.com/JTGNzdev/calculator.git
+git clone https://github.com/JotaDevAI/calculator.git
 cd calculator
 npm install
 ```
@@ -165,7 +165,7 @@ npm test -- --run
 ## Contexto del repositorio
 
 Este es un repositorio privado de GitHub
-([JTGNzdev/calculator](https://github.com/JTGNzdev/calculator)). No hay
+([JotaDevAI/calculator](https://github.com/JotaDevAI/calculator)). No hay
 deployment, ni publicación pública, ni paquete publicado — el proyecto es un
 ejercicio de aprendizaje local en desarrollo activo.
 
